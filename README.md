@@ -4,21 +4,29 @@ thIS is a eleventh project. This Cutie-NoteTaker is an application that run by s
 to create notes, save them and delete them for everyday use. Connecting Github with Heroku app, it deploys the website as a complete enticing notetaker app/
 
 # User's Story
-The notetaker person who wants to be, paperless organized and neat. Saving his/her files with the notetaker is best thing for them to invest in. I thought about it myse;;f
+The notetaker person who wants to be, paperless organized and neat. Saving his/her files with the notetaker is best thing for them to invest in. I thought about it myself
 
+Motivation(s) : My motivation is to be paperless with taking notes of what I want to do. I would like to be strong at coding and displat works that makes me a 
 
+I need to 
 
-# Links of Repository and Deployed Website:
+# Links of Repository
 
 Check it out :https://github.com/codeyab22/Cutie-NoteTaker/
 
-Here is the screenshot of the 
+# Links of the Deployed Website
+Check it out of this website: https://testnotetutor.herokuapp.com/
+# Screenshots and Video
+Here is the screenshot of my heroku app that I worked on. I want to show you colors. 
+
+![image](https://drive.google.com/uc?export=view&id=1fQ7oVHejwDA2IRneaFpIDoptilsSPfeg)
 
 How to Github to Heroku  App
 
-1. First, create your account in Heroku
+1. First, create your account in Heroku. Go to https://signup.heroku.com/login and read the instructions
 2. Put a title of app 
-3. 
+3. Go to Dashboard and put new pipelne 
+4. Click Connect to Github. You have to create a repo to link the Heroku App. 
 
 # Author(s)
 Only Me.
