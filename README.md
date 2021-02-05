@@ -18,8 +18,10 @@ Check it out :https://github.com/codeyab22/Cutie-NoteTaker/
 Check it out of this website: https://testnotetutor.herokuapp.com/
 # Screenshots and Video
 Here is the screenshot of my heroku app that I worked on. I want to show you colors. 
-
 ![image](https://drive.google.com/uc?export=view&id=1fQ7oVHejwDA2IRneaFpIDoptilsSPfeg)
+This is the video: 
+![image](https://drive.google.com/uc?export=view&id=1ntJ_RbDb7PkndddS0jNedzrUIi77gTxc)
+
 
 How to Github to Heroku  App
 
@@ -28,6 +30,10 @@ How to Github to Heroku  App
 3. Go to Dashboard and put new pipelne 
 4. Click Connect to Github. You have to create a repo to link the Heroku App. 
 
+# Licenses:
+ISC 
+
 # Author(s)
 Only Me.
 
+Contact me at Github: codeyab22
