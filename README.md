@@ -29,6 +29,7 @@ How to Github to Heroku  App
 2. Put a title of app 
 3. Go to Dashboard and put new pipelne 
 4. Click Connect to Github. You have to create a repo to link the Heroku App. 
+5 Press Deploy
 
 # Licenses:
 ISC 
