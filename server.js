@@ -113,9 +113,9 @@ app.get("*", function(req, res) {
   res.sendFile(path.join(__dirname, "Develop/public/index.html"));
 });
 
-app.get("/api/notes", function(req, res) {
-  return res.sendFile(path.json(__dirname, "Develop/db/db.json"));
-});
+//app.get("/api/notes", function(req, res) {
+  //return res.sendFile(path.json(__dirname, "Develop/db/db.json"));
+//});
 
 // Start Server
 app.listen(PORT, function() {
