@@ -1,6 +1,6 @@
 # Cutie-NoteTaker
 # About a project
-thIS is a eleventh project. This Cutie-NoteTaker is an application that run by server.js for express. Using node, it is a great tool 
+This is a eleventh project. This Cutie-NoteTaker is an application that run by server.js for express. Using node, it is a great tool 
 to create notes, save them and delete them for everyday use. Connecting Github with Heroku app, it deploys the website as a complete enticing notetaker app tp use everyday. 
 
 # User's Story
